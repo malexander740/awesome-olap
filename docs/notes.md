@@ -81,3 +81,4 @@ Notes and usage details for awesome-olap.
 - clarify the setup steps
 - add a note about the defaults
 - link the usage section
+- clarify the setup steps
